@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Downquixote&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=008B8B&text_color=008B8B&bg_color=0d1120" alt="Lucas Brandão github stats" /> 
-  <img width="50%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Downquixote&layout=compact&hide_border=true&title_color=008B8B&text_color=008B8B&bg_color=0d1120" />
+  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Downquixote&layout=compact&hide_border=true&title_color=008B8B&text_color=008B8B&bg_color=0d1120" />
 </div>
 
 ## Atualmente estou focando em / I'm currently focusing on: 
