@@ -48,10 +48,15 @@
 ![Ryzen 5 5600](https://img.shields.io/badge/AMD%20Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![RX 580](https://img.shields.io/badge/AMD%20Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+
+<br>
+
+<div align="center">
+  <img width="400" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
+</div>
   
  ![Snake animation](https://github.com/Davs06/Davs06/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=116B9B&height=130&section=footer"/>
-
