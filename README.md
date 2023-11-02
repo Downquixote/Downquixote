@@ -10,9 +10,11 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 <p/>
   
-<div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Downquixote&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=008B8B&text_color=008B8B&bg_color=0d1120" alt="Lucas Brandão github stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Downquixote&layout=compact&hide_border=true&title_color=008B8B&text_color=008B8B&bg_color=0d1120" />
+<div align="center">
+  <a href="https://github.com/Downquixote">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Downquixote&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+                           
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Downquixote&layout=compact&langs_count=7&theme=github_dark"/> 
 </div>
 
 ## ⭐ What do I study:
@@ -46,11 +48,6 @@
 ![Ryzen 5 5600](https://img.shields.io/badge/AMD%20Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![RX 580](https://img.shields.io/badge/AMD%20Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Downquixote}/count.svg" /></p> 
-<br>
   
  ![Snake animation](https://github.com/Davs06/Davs06/blob/output/github-contribution-grid-snake.svg)
  
