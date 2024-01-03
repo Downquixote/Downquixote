@@ -56,10 +56,5 @@
   <img width="400" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
 
-<div>
-  
- ![Snake animation](https://github.com/Davs06/Davs06/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=116B9B&height=130&section=footer"/>
