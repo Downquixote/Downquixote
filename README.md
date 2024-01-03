@@ -55,6 +55,8 @@
 <div align="center">
   <img width="400" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
+
+<div>
   
  ![Snake animation](https://github.com/Davs06/Davs06/blob/output/github-contribution-grid-snake.svg)
  
