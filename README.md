@@ -41,7 +41,7 @@
 
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Ryzen 5 5600](https://img.shields.io/badge/AMD%20Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![RX 9060 XT 16GB](https://img.shields.io/badge/AMD%20Radeon_RX_9060 XT 16GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![RX 9060_XT_16GB](https://img.shields.io/badge/AMD%20Radeon_RX_9060_XT_16GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 
 ## 🎮 entertainment platforms
